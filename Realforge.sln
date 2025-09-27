@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realmforge Launcher", "pc samp\Realmforge Launcher.csproj", "{9F6409A8-703C-40F3-A498-F6E1852E8FD7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Realmforge RolePlay", "Realmforge RolePlay\Realmforge RolePlay.vdproj", "{52EB9581-C776-492F-B531-D851664956C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6409A8-703C-40F3-A498-F6E1852E8FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6409A8-703C-40F3-A498-F6E1852E8FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6409A8-703C-40F3-A498-F6E1852E8FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6409A8-703C-40F3-A498-F6E1852E8FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EB9581-C776-492F-B531-D851664956C4}.Debug|Any CPU.ActiveCfg = Debug
+		{52EB9581-C776-492F-B531-D851664956C4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C306B4D-E24A-4679-98E9-3DCE89B44A72}
+	EndGlobalSection
+EndGlobal

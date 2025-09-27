@@ -1,0 +1,15 @@
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\bin\Debug\Realmforge_RolePlay.exe.config
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\bin\Debug\Realmforge_RolePlay.exe
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\bin\Debug\Realmforge_RolePlay.pdb
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\bin\Debug\ka\Realmforge_RolePlay.resources.dll
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\bin\Debug\Guna.UI2.dll
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmforge Launcher.csproj.AssemblyReference.cache
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\pc_samp.RealmForge.resources
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmforge_RolePlay.Properties.Resources.resources
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\pc_samp.RealmForge.ka.resources
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmforge Launcher.csproj.GenerateResource.cache
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmforge Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\ka\Realmforge_RolePlay.resources.dll
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmfor.5F97A8A5.Up2Date
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmforge_RolePlay.exe
+C:\Users\Byncode\Desktop\Realmforge RolePlay Launcher\pc samp\obj\Debug\Realmforge_RolePlay.pdb
